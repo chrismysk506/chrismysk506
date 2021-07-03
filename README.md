@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrismysk506
 - 👀 I’m interested in Web development and Android
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently working with  MERN Stack
 
 
 <!---
